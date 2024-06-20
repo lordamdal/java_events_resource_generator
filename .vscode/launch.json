@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ResourceEventGenerator",
+            "request": "launch",
+            "mainClass": "com.cirruslink.ResourceEventGenerator",
+            "projectName": "cirrusevents"
+        },
+        {
+            "type": "java",
+            "name": "Debug ResourceEventGenerator",
+            "request": "launch",
+            "mainClass": "com.cirruslink.ResourceEventGenerator",
+            "projectName": "resource-event-project",
+            "args": ""
+        }
+    ]
+}
