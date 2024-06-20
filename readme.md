@@ -1,4 +1,4 @@
-﻿# <a name="_hroe8050m8vs"></a>**Cirrus Link Resource Event Project Documentation**
+﻿# <a name="_hroe8050m8vs"></a>**Cirrus Link Resource Event Project Documentation by Ahmed Ali**
 ## <a name="_j7xquaot6wwi"></a>**Project Overview**
 The Cirrus Link Resource Event Project is a Java application that simulates a Resource Event Generator producing events every second. Each event is represented as a map containing details such as name, timestamp, data type, and value. The project utilizes Maven for build management and includes handlers for logging events to the console and encoding events as JSON using Jackson ObjectMapper.
 ### <a name="_ekdj2f71d4ul"></a>**Project Structure**
