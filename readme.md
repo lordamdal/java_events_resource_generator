@@ -59,7 +59,7 @@ launch.json is a configuration file used by Visual Studio Code to define launch 
 ### <a name="_9hbnr7nwh88z"></a>**Steps to Run the Project**
 **Clone the Repository (if not already done)**:
 
-**git clone https://github.com/lordamdal/Java_ResourceEventGenerator.git or unzip the archive**
+**git clone https://github.com/lordamdal/java_events_resource_generator.git or unzip the archive**
 
 **cd CirrusResourceEventProject**
 
