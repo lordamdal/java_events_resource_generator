@@ -113,6 +113,6 @@ Copy code
 - **Environment**: This project has been developed and tested on macOS. Ensure compatibility with other operating systems if deploying elsewhere.
 - **Dependencies**: Maven handles dependencies automatically based on pom.xml configuration.
 - **Extensibility**: The project can be extended by adding new event handlers or modifying existing ones to support additional features.
-- **Ahmed Ali**
+-- **Ahmed Ali**
 
 
